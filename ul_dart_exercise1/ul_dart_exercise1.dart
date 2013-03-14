@@ -1,4 +1,4 @@
-// Exercise 1 for Universite Laval SIO 2103 - Dart Programming
+// Exercise 1 for Universite Laval SIO 2109 - Dart Programming
 // Available here: On Dart [Web Programming] (http://ondart.me/web_programming.md) course.
 // Author: Maxime Fortier
 
@@ -122,7 +122,6 @@ main() {
   */
 
   print('----------------- Q5 ---------------'); 
-  print('TO BE COMPLETED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!');
  // Edit the values below to ajust the arguments sent to the function
   var numberToDiscard = 9; 
   var inputString = '''
@@ -363,12 +362,5 @@ The program will still be compiled and executed.
   print(topFrequency);
   var FreqListeDeKeys = topFrequency.keys.toList();
   var FreqListeDeValues = topFrequency.values.toList();
-  //topFrequency = topFrequency.;
-  var iTopMax = 10;
-  var iTop = 0;
-  do{
-    print("sksk");
-    iTop ++;
-  }while(iTop < iTopMax);
   
 }
